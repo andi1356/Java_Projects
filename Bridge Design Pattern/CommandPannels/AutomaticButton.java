@@ -1,3 +1,6 @@
+/*
+	Author: Andrei-Antonio Robu (andrei-antonio.robu@student.tuiasi.ro)
+*/
 package CommandPannels;
 
 import CoffeeMakers.CoffeeMaker;
